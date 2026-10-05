@@ -44,7 +44,6 @@ export const Route = createFileRoute("/")({
           "Sito ufficiale: il libro «La mia esperienza in Europa», attività istituzionale, attività sul territorio, articoli recenti e video.",
       },
       { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
   component: Index,
