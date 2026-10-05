@@ -1,0 +1,2 @@
+- [x] Allineare la homepage allo stile di riferimento https://www.francescadonato.eu/
+- [x] Rendere l'interfaccia più istituzionale, seria e autorevole
